@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "chrome-mine": {
+      "command": "npx",
+      "args": ["-y", "chrome-devtools-mcp@1.12.0", "--autoConnect", "--no-usage-statistics"]
+    }
+  }
+}
