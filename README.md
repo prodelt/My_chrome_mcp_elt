@@ -112,5 +112,5 @@ ChatGPT: Settings → MCPs → `chrome-mine` → видалити (або при
 
 - Сервер: [ChromeDevTools/chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp) (Google, Apache-2.0) — прапорці `--autoConnect`, `--isolated`, `--no-usage-statistics`.
 - MCP у ChatGPT для комп'ютера: [developers.openai.com/codex/mcp](https://developers.openai.com/codex/mcp).
-- Перевірено 05.11.2026: ChatGPT для комп'ютера (Free, Windows 11), chrome-devtools-mcp 1.12.0, Chrome з `--autoConnect`. На Mac і в Claude Desktop — за документацією.
+- Перевірено 05.11.2026 на ChatGPT для комп'ютера (Free, Windows 11): доручення зі «Способу 1» — агент за `AGENTS.md` додав лише `chrome-mine` (2 хв 44 с, 3 × «Allow once»), після перезапуску і «Allow» у Chrome відкрив bank.gov.ua і назвав курс євро. На Mac і в Claude Desktop — за документацією.
 - Цей репозиторій (інструкції й фрагменти) — [MIT](LICENSE). Матеріал курсу «AI для бізнесу».
